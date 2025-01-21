@@ -1,4 +1,4 @@
-# documentation
+# Documentation
 [Here is the Day 1](https://github.com/Qiratsumra/documentation/blob/main/Day1.pdf)
 
 
