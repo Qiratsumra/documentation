@@ -13,3 +13,5 @@
 
 
 [Here is the Day 5](https://github.com/Qiratsumra/documentation/blob/main/DAY%205.pdf)
+
+[Here is the Day 6](https://github.com/Qiratsumra/documentation/blob/main/DAY%206.pdf)
